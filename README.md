@@ -9,4 +9,6 @@ Github: new-hue
 Gitlab: squishyyyyy
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys_menu)](https://github.com/anuraghazra/github-readme-stats)
