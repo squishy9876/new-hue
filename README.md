@@ -8,5 +8,5 @@ Discord: squishy#9876
 Github: new-hue
 Gitlab: squishyyyyy
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 ## Repositories
