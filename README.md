@@ -4,7 +4,7 @@
 
 </> age: 14
 
-</> current projects: I am currently working on 
+</> current projects: I am currently working on my very own gorilla tag mod menu!
 ## Accounts
 </> Discord: squishy#9876
 
