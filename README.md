@@ -17,3 +17,4 @@
 
 # Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)](https://github.com/new-hue/nuke-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=helper-bot)](https://github.com/new-hue/helper-bot)
