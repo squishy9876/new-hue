@@ -17,6 +17,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue)
 
 # Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys-menu)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=gtag-files)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys-menu)](https://github.com/new-hue/squishys-menu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=gtag-files)](https://github.com/new-hue/gtag-files)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)](https://github.com/new-hue/nuke-bot)
