@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+</new-hue>)](https://github.com/new-hue/new-hue)
 # About me
-</> interests: programing, networking, and cybersecurity
+</> interests: programming, videogame design, and PC building.
 
 </> age: 14
 
-</> current projects: I am currently working on my very own gorilla tag mod menu!
+</> current projects: Working on discord bots/webhooks.
 # Accounts
 </> Discord: squishy#9876
 
