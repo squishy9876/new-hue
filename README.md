@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+</squishy>;I+like+programming+and+gaming!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+</new-hue>;)
 # About Me
-</> interests: programing, networking and cybersecurity
+</> interests: programing, networking, and cybersecurity
 
 </> age: 14
 
@@ -14,7 +14,7 @@
 # Stats
 [![new-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue)](https://github.com/anuraghazra/github-readme-stats)
 
 # Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys-menu)](https://github.com/new-hue/squishys-menu)
