@@ -17,3 +17,4 @@
 ## Repositories
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys_menu)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=gtag-files)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)
