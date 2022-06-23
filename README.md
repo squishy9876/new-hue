@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+</new-hue>;)
-# About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+</new-hue>)](https://github.com/new-hue/)
+# About me
 </> interests: programing, networking, and cybersecurity
 
 </> age: 14
@@ -12,11 +12,11 @@
 
 </> Gitlab: squishyyyyy
 # Stats
-[![new-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue)](https://github.com/anuraghazra/github-readme-stats)
+[![new-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue)](https://github.com/new-hue/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue&langs_count=10)](https://github.com/new-hue/)
 
-# Repositories
+# Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys-menu)](https://github.com/new-hue/squishys-menu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=gtag-files)](https://github.com/new-hue/gtag-files)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)](https://github.com/new-hue/nuke-bot)
