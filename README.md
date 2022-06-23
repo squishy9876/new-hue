@@ -12,11 +12,11 @@
 
 </> Gitlab: squishyyyyy
 # Stats
-![new-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue&show_icons=true)
+[![new-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue)
 
 # Repositories
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys_menu)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=gtag-files)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys-menu)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=gtag-files)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)](https://github.com/anuraghazra/github-readme-stats)
