@@ -12,8 +12,10 @@
 
 </> Gitlab: squishyyyyy
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue)
 ![new-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue)
+
 # Repositories
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys_menu)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=gtag-files)
