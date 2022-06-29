@@ -4,7 +4,7 @@
 
 </> age: 14
 
-</> current projects: Working on discord bots/webhooks.
+</> current projects: Working on a VR game called Backrooms: Level 0
 # Accounts
 </> Discord: squishy#9876
 
