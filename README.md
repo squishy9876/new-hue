@@ -4,7 +4,7 @@
 
 </> age: 14
 
-</> current projects: Working on a VR game called Backrooms: Level 0
+</> current projects: Working on my wibesite proxy: https://squishy.lol
 # Accounts
 </> Discord: squishy#9876
 
