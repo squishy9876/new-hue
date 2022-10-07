@@ -18,4 +18,4 @@
 
 # Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)](https://github.com/new-hue/nuke-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishystereo)](https://github.com/new-hue/squishys-proxy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=squishys-proxy)](https://github.com/new-hue/squishys-proxy)
