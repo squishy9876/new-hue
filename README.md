@@ -2,7 +2,7 @@
 # About me
 </> interests: programming, videogame design, and PC building.
 
-</> age: 14
+</> age: 15
 
 </> current projects: Working on my website: https://squishy.lol
 # Accounts
