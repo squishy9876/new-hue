@@ -4,7 +4,7 @@
 
 </> age: 15
 
-</> current projects: Working on my website: https://squishy.lol
+</> current projects: palebr1ck
 # Accounts
 </> Discord: squishy#9876
 
