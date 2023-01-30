@@ -14,6 +14,7 @@
 
 # Stats
 [![new-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue)](https://github.com/new-hue/new-hue)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue&layout=compact)](https://github.com/new-hue/new-hue)
 
 # Top Repositories
