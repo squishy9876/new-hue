@@ -4,9 +4,9 @@
 
 </> age: 15
 
-</> current projects: palebr1ck
+</> current projects: squishOS
 # Accounts
-</> Discord: squishy#9876
+</> Discord: squishy#9555
 
 </> Github: new-hue
 
