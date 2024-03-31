@@ -1,21 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+</new-hue>)](https://github.com/new-hue/new-hue)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+</squishy9876>)](https://github.com/squishy9876/squishy9876)
 # About me
 </> interests: programming, videogame design, and PC building.
 
-</> age: 15
+</> age: 16
 
-</> current projects: squishOS
+</> current projects: squishy.zip
 # Accounts
-</> Discord: squishy#9555
+</> Discord: squishy.9876
 
-</> Github: new-hue
+</> Github: squishy9876
 
 </> Gitlab: squishyyyyy
 
 # Stats
-[![new-hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=new-hue)](https://github.com/new-hue/new-hue)
+[![squishy9876's GitHub stats](https://github-readme-stats.vercel.app/api?username=squishy9876)](https://github.com/squishy9876/squishy9876)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-hue&layout=compact)](https://github.com/new-hue/new-hue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squishy9876&layout=compact)](https://github.com/squishy9876/squishy9876)
 
 # Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=new-hue&repo=nuke-bot)](https://github.com/new-hue/nuke-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=squishy9876&repo=nuke-bot)](https://github.com/squishy9876/nuke-bot)
